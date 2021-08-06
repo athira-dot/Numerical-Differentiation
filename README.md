@@ -6,5 +6,5 @@ When the functions become complex,analytical differentiaon becomes difficult.Dif
    </p>
 <figure>
 	<img src=error_075.png'>
-	<figcaption>Original image</figcaption>
+	<figcaption>error at t=0.075</figcaption>
 </figure>
