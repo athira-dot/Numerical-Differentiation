@@ -12,6 +12,6 @@ When the functions become complex,analytical differentiaon becomes difficult.Dif
 	Poisson Equation with finite element method is solved to understand the nature of deflection with distance measured along the bar’s length.
 	<figure>
 	<img src='poisson.png'>
-	<figcaption>"u vs x"</figcaption>
+	<figcaption>u vs x</figcaption>
 	</figure>
  </p>
