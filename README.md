@@ -5,6 +5,6 @@ When the functions become complex,analytical differentiaon becomes difficult.Dif
  Viscous Burger's Equation with Euler + first order upwind schemes and Euler +second order central difference schemes are solved and compared with each other.
    </p>
 <figure>
-	<img src=error_075.png'>
+	<img src='error_075.png'>
 	<figcaption>error at t=0.075</figcaption>
 </figure>
