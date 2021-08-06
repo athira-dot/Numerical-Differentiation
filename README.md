@@ -1,1 +1,2 @@
 When the functions become complex,analytical differentiaon becomes difficult.Differential equations are solved numerically using different techniques.Comparison study between explicit Euler,Implicit Euler,Range Kutta4 method and verlet integration is conducted.
+ Viscous Burger's Equation with Euler + first order upwind schemes and Euler +second order central difference schemes are solved and compared with each other.
